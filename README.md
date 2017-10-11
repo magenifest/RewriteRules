@@ -5,4 +5,4 @@ This module is useful for cases where temporary redirect of product / category u
 
 Sample configuration:  
 
-[[https://github.com/magenifest/RewriteRules/raw/master/sample-configuration.png|alt=magenifest-rewriterules-configuration]]
+https://github.com/magenifest/RewriteRules/raw/master/sample-configuration.png
